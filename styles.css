@@ -1,0 +1,138 @@
+body{
+    background-color:black;
+	color:white;
+	align:center;
+	padding-bottom:50px;
+	width:100%;
+  padding:10px;
+	}
+ul{
+list-style-type:none;
+overflow:hidden;
+background-color:black;
+
+}
+li{
+float:inline-start;
+padding-left: 10px;
+}
+li a{
+display:block;
+color: white;
+text-align: center;
+padding:10px;
+text-decoration: none;
+width:110px;
+
+}
+li a:hover {
+background-color:darkred;
+transition:.9s;
+border-radius: 100px; 
+}
+#img{
+background:white url("log.gif");
+width:140px;
+}
+
+
+
+span a:hover{
+background-color:transparent;
+}
+span a{
+  align-content: center;
+}
+#gg{
+background-color:#2b2a27;
+width:cover;
+height:56px;
+padding-top:10px;
+padding-bottom:20px;
+}
+table{
+ line-height:30px;
+ line-break: auto;
+ }
+ button{
+ background:transparent;
+ color:white;
+ border:1px solid white;
+ width:300px;
+ height:50px;
+ transition:0.8s;
+ border-radius: 15px;
+ }
+
+ button:hover{
+ background-color:red;
+ color:white;
+ border:1px solid red;
+
+ }
+ 
+ form{
+  background-color:#2b2a27;
+  width:cover;
+  padding-bottom:50px;
+  padding-top:40px;
+  line-height:30px;
+  position:relative;
+  }
+  input{
+  color:white;
+  margin-left:5px;
+  
+  
+  border:none;
+  border-bottom:2px solid white;
+  border-length:50px;
+  background:transparent;
+  width:330px;
+ 
+  }
+  ::placeholder{
+  color:red;
+  font-size:15px;
+
+
+
+  }
+  #butt{
+  margin-left:450px;
+  background-color:red;
+  border:none;
+  width:350px;
+  margin-left:45px;
+  }
+  #adas{
+  width:850px;
+  height:auto;
+
+
+  }
+  #design{
+   width:800px;
+  height:auto;
+  padding-left:250px;
+  }
+  #transmission{
+  width:850px;
+  height:auto;
+  }
+  #arc{
+  width:870px;
+
+  padding-left:250px;
+  }
+  #sunroof{
+  width:850px;
+  height:auto;
+ }
+
+  
+       #footer{
+    position:relative;
+    text-align: center;
+padding-bottom: 0px;
+  }
